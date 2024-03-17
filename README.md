@@ -4,8 +4,10 @@
 
 Welcome to ZKEvmMeme! The memest cryptocurrency on the Polygon ZK-EVM blockchain, dedicated to supporting the ZK-EVM ecosystem.
 
-## Contract Address
+## Smart Contract Deployment Address 
 
+0x87Fa90Cd9Eb770618F78B77Fae5Bb3d2D889Ed63 </br>
+https://testnet-zkevm.polygonscan.com/tx/0xc0b9d1dbb04c7ef3705802bd14c4b801457ef328b3064506e405ed697cdcbaee
 
 ## What is ZKEvmMeme?
 
